@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "PROD-001",
+      "name": "Heavy Duty Pallet Rack",
+      "qty": 7
+    },
+    {
+      "id": "PROD-002",
+      "name": "Forklift Battery 48V",
+      "qty": 4
+    },
+    {
+      "id": "PROD-003",
+      "name": "Industrial Safety Helmets",
+      "qty": 35
+    },
+    {
+      "id": "vuZl-2CKOgA",
+      "name": "test",
+      "qty": 23
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
